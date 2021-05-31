@@ -3,3 +3,4 @@ homepage
 lien vers panier.txt
 lien vers login.txt
 ajout de la banniere 
+petite correction graphique
