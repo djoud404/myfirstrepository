@@ -1,0 +1,7 @@
+1. creer une branche gestion-login
+2. checkout gestion-login
+3. creer un fichier login.txt
+4. modifier le fichier home.txt et ajouter "lien vers le login"
+5.commit
+6. checkout master
+7.merge avec gestion-login
